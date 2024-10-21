@@ -80,7 +80,6 @@ img {
 }
 
 @media (max-width: 1250px) {
-  
   #diceCont {
     display: flex;
     place-items: none;
@@ -94,11 +93,10 @@ img {
   }
 }
 @media (max-width: 1250px) {
-  
   #diceCont {
     display: flex;
     place-items: none;
-    top: 99vh;
+    top: 70vh;
     left: 10vw;
     /* border: 2px solid red; */
   }
